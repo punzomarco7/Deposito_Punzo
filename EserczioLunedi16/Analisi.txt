@@ -1,0 +1,3 @@
+dividerò l'esercizio in 3 commit oltre questo:
+due commit per la prima parte,uno per la classe base e un altro per i metodi.
+un commit per una feature e il test
